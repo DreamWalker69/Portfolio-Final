@@ -4,7 +4,7 @@ export const resumeData = {
   email: "tambischester@gmail.com",
   phone: "+63 935 546 0417",
   location: "Tuguegarao, Cagayan",
-  website: "https://chesterlambis.com",
+  website: "https://chestertambis.com",
   social: {
     github: "https://github.com",
     linkedin: "https://linkedin.com",

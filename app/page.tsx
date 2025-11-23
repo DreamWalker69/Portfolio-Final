@@ -7,6 +7,7 @@ import { EducationSection } from '@/components/education-section'
 import { ProjectsSection } from '@/components/projects-section'
 import { ContactSection } from '@/components/contact-section'
 import { Footer } from '@/components/footer'
+import { ChatBot } from '@/components/chat-bot'
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
         <ContactSection />
       </main>
       <Footer />
+      <ChatBot />
     </>
   )
 }

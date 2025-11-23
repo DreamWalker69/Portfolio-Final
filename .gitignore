@@ -1,0 +1,13 @@
+node_modules
+
+# Security: Never commit environment variables or secrets
+.env
+
+# Python compilation files (not needed in repo)
+__pycache__/
+*.pyc
+
+# Virtual environments (if you use them)
+env/
+venv/
+.venv/
